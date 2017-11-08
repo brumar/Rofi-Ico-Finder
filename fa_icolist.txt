@@ -1,0 +1,675 @@
+Glass   (martini,drink,bar,alcohol,liquor)
+Music   (note,sound)
+Search   (magnify,zoom,enlarge,bigger)
+Envelope_Outlined   (email,e-mail,letter,support,mail,message,notification)
+Heart   (love,like,favorite)
+Star   (award,achievement,night,rating,score,favorite)
+Star_Outlined   (award,achievement,night,rating,score,favorite)
+User   (person,man,head,profile)
+Film   (movie)
+th-large   (blocks,squares,boxes,grid)
+th   (blocks,squares,boxes,grid)
+th-list   (ul,ol,checklist,finished,completed,done,todo)
+Check   (checkmark,done,todo,agree,accept,confirm,tick,ok)
+Times   (close,exit,x,cross)
+Search_Plus   (magnify,zoom,enlarge,bigger)
+Search_Minus   (magnify,minify,zoom,smaller)
+Power_Off   (on)
+signal   (graph,bars)
+cog   (settings)
+Trash_Outlined   (garbage,delete,remove,trash,hide)
+home   (main,house)
+File_Outlined   (new,page,pdf,document)
+Clock_Outlined   (watch,timer,late,timestamp)
+road   (street)
+Download   (import)
+Arrow_Circle_Outlined_Down   (download)
+Arrow_Circle_Outlined_Up   
+inbox   
+Play_Circle_Outlined   
+Repeat   (redo,forward)
+refresh   (reload,sync)
+list-alt   (ul,ol,checklist,finished,completed,done,todo)
+lock   (protect,admin,security)
+flag   (report,notification,notify)
+headphones   (sound,listen,music,audio)
+volume-off   (audio,mute,sound,music)
+volume-down   (audio,lower,quieter,sound,music)
+volume-up   (audio,higher,louder,sound,music)
+qrcode   (scan)
+barcode   (scan)
+tag   (label)
+tags   (labels)
+book   (read,documentation)
+bookmark   (save)
+print   
+camera   (photo,picture,record)
+font   (text)
+bold   
+italic   (italics)
+text-height   
+text-width   
+align-left   (text)
+align-center   (middle,text)
+align-right   (text)
+align-justify   (text)
+list   (ul,ol,checklist,finished,completed,done,todo)
+Outdent   
+Indent   
+Video_Camera   (film,movie,record)
+Picture_Outlined   
+pencil   (write,edit,update)
+map-marker   (map,pin,location,coordinates,localize,address,travel,where,place)
+adjust   (contrast)
+tint   (raindrop,waterdrop,drop,droplet)
+Pencil_Square_Outlined   (write,edit,update)
+Share_Square_Outlined   (social,send,arrow)
+Check_Square_Outlined   (todo,done,agree,accept,confirm,ok)
+Arrows   (move,reorder,resize)
+step-backward   (rewind,previous,beginning,start,first)
+fast-backward   (rewind,previous,beginning,start,first)
+backward   (rewind,previous)
+play   (start,playing,music,sound)
+pause   (wait)
+stop   (block,box,square)
+forward   (forward,next)
+fast-forward   (next,end,last)
+step-forward   (next,end,last)
+eject   
+chevron-left   (bracket,previous,back)
+chevron-right   (bracket,next,forward)
+Plus_Circle   (add,new,create,expand)
+Minus_Circle   (delete,remove,trash,hide)
+Times_Circle   (close,exit,x)
+Check_Circle   (todo,done,agree,accept,confirm,ok)
+Question_Circle   (help,information,unknown,support)
+Info_Circle   (help,information,more,details)
+Crosshairs   (picker)
+Times_Circle_Outlined   (close,exit,x)
+Check_Circle_Outlined   (todo,done,agree,accept,confirm,ok)
+ban   (delete,remove,trash,hide,block,stop,abort,cancel)
+arrow-left   (previous,back)
+arrow-right   (next,forward)
+arrow-up   
+arrow-down   (download)
+Share   
+Expand   (enlarge,bigger,resize)
+Compress   (collapse,combine,contract,merge,smaller)
+plus   (add,new,create,expand)
+minus   (hide,minify,delete,remove,trash,hide,collapse)
+asterisk   (details)
+Exclamation_Circle   (warning,error,problem,notification,alert)
+gift   (present)
+leaf   (eco,nature,plant)
+fire   (flame,hot,popular)
+Eye   (show,visible,views)
+Eye_Slash   (toggle,show,hide,visible,visiblity,views)
+Exclamation_Triangle   (warning,error,problem,notification,alert)
+plane   (travel,trip,location,destination,airplane,fly,mode)
+calendar   (date,time,when,event)
+random   (sort,shuffle)
+comment   (speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation)
+magnet   
+chevron-up   
+chevron-down   
+retweet   (refresh,reload,share)
+shopping-cart   (checkout,buy,purchase,payment)
+Folder   
+Folder_Open   
+Arrows_Vertical   (resize)
+Arrows_Horizontal   (resize)
+Bar_Chart   (graph,analytics,statistics)
+Twitter_Square   (tweet,social network)
+Facebook_Square   (social network)
+camera-retro   (photo,picture,record)
+key   (unlock,password)
+cogs   (settings)
+comments   (speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation)
+Thumbs_Up_Outlined   (like,approve,favorite,agree,hand)
+Thumbs_Down_Outlined   (dislike,disapprove,disagree,hand)
+star-half   (award,achievement,rating,score)
+Heart_Outlined   (love,like,favorite)
+Sign_Out   (log out,logout,leave,exit,arrow)
+LinkedIn_Square   
+Thumb_Tack   (marker,pin,location,coordinates)
+External_Link   (open,new)
+Sign_In   (enter,join,log in,login,sign up,sign in,signin,signup,arrow)
+trophy   (award,achievement,cup,winner,game)
+GitHub_Square   (octocat)
+Upload   (import)
+Lemon_Outlined   (food)
+Phone   (call,voice,number,support,earphone,telephone)
+Square_Outlined   (block,square,box)
+Bookmark_Outlined   (save)
+Phone_Square   (call,voice,number,support,telephone)
+Twitter   (tweet,social network)
+Facebook   (social network)
+GitHub   (octocat)
+unlock   (protect,admin,password,lock)
+credit-card   (money,buy,debit,checkout,purchase,payment)
+rss   (blog)
+HDD   (harddrive,hard drive,storage,save)
+bullhorn   (announcement,share,broadcast,louder,megaphone)
+bell   (alert,reminder,notification)
+certificate   (badge,star)
+Hand_Outlined_Right   (point,right,next,forward,finger)
+Hand_Outlined_Left   (point,left,previous,back,finger)
+Hand_Outlined_Up   (point,finger)
+Hand_Outlined_Down   (point,finger)
+Arrow_Circle_Left   (previous,back)
+Arrow_Circle_Right   (next,forward)
+Arrow_Circle_Up   
+Arrow_Circle_Down   (download)
+Globe   (world,planet,map,place,travel,earth,global,translate,all,language,localize,location,coordinates,country)
+Wrench   (settings,fix,update,spanner)
+Tasks   (progress,loading,downloading,downloads,settings)
+Filter   (funnel,options)
+Briefcase   (work,business,office,luggage,bag)
+Arrows_Alt   (expand,enlarge,fullscreen,bigger,move,reorder,resize,arrow)
+Users   (people,profiles,persons)
+Link   (chain)
+Cloud   (save)
+Flask   (science,beaker,experimental,labs)
+Scissors   
+Files_Outlined   (duplicate,clone,copy)
+Paperclip   (attachment)
+Floppy_Outlined   
+Square   (block,box)
+Bars   (menu,drag,reorder,settings,list,ul,ol,checklist,todo,list,hamburger)
+list-ul   (ul,ol,checklist,todo,list)
+list-ol   (ul,ol,checklist,list,todo,list,numbers)
+Strikethrough   
+Underline   
+table   (data,excel,spreadsheet)
+magic   (wizard,automatic,autocomplete)
+truck   (shipping)
+Pinterest   
+Pinterest_Square   
+Google_Plus_Square   (social network)
+Google_Plus   (social network)
+Money   (cash,money,buy,checkout,purchase,payment)
+Caret_Down   (more,dropdown,menu,triangle down,arrow)
+Caret_Up   (triangle up,arrow)
+Caret_Left   (previous,back,triangle left,arrow)
+Caret_Right   (next,forward,triangle right,arrow)
+Columns   (split,panes)
+Sort   (order)
+Sort_Descending   (dropdown,more,menu,arrow)
+Sort_Ascending   (arrow)
+Envelope   (email,e-mail,letter,support,mail,message,notification)
+LinkedIn   
+Undo   (back)
+Gavel   (judge,lawyer,opinion)
+Tachometer   (speedometer,fast)
+comment-o   (speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation)
+comments-o   (speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation)
+Lightning_Bolt   (lightning,weather)
+Sitemap   (directory,hierarchy,organization)
+Umbrella   
+Clipboard   (copy)
+Lightbulb_Outlined   (idea,inspiration)
+Exchange   (transfer,arrows,arrow)
+Cloud_Download   (import)
+Cloud_Upload   (import)
+user-md   (doctor,profile,medical,nurse)
+Stethoscope   
+Suitcase   (trip,luggage,travel,move,baggage)
+Bell_Outlined   (alert,reminder,notification)
+Coffee   (morning,mug,breakfast,tea,drink,cafe)
+Cutlery   (food,restaurant,spoon,knife,dinner,eat)
+File_Text_Outlined   (new,page,pdf,document)
+Building_Outlined   (work,business,apartment,office,company)
+hospital_Outlined   (building)
+ambulance   (vehicle,support,help)
+medkit   (first aid,firstaid,help,support,health)
+fighter-jet   (fly,plane,airplane,quick,fast,travel)
+beer   (alcohol,stein,drink,mug,bar,liquor)
+H_Square   (hospital,hotel)
+Plus_Square   (add,new,create,expand)
+Angle_Double_Left   (laquo,quote,previous,back,arrows)
+Angle_Double_Right   (raquo,quote,next,forward,arrows)
+Angle_Double_Up   (arrows)
+Angle_Double_Down   (arrows)
+angle-left   (previous,back,arrow)
+angle-right   (next,forward,arrow)
+angle-up   (arrow)
+angle-down   (arrow)
+Desktop   (monitor,screen,desktop,computer,demo,device)
+Laptop   (demo,computer,device)
+tablet   (ipad,device)
+Mobile_Phone   (cell phone,cellphone,text,call,iphone,number,telephone)
+Circle_Outlined   
+quote-left   
+quote-right   
+Spinner   (loading,progress)
+Circle   (dot,notification)
+Reply   
+GitHub_Alt   (octocat)
+Folder_Outlined   
+Folder_Open_Outlined   
+Smile_Outlined   (face,emoticon,happy,approve,satisfied,rating)
+Frown_Outlined   (face,emoticon,sad,disapprove,rating)
+Meh_Outlined   (face,emoticon,rating,neutral)
+Gamepad   (controller)
+Keyboard_Outlined   (type,input)
+Flag_Outlined   (report,notification)
+flag-checkered   (report,notification,notify)
+Terminal   (command,prompt,code)
+Code   (html,brackets)
+reply-all   
+Star_Half_Outlined   (award,achievement,rating,score)
+location-arrow   (map,coordinates,location,address,place,where)
+crop   
+code-fork   (git,fork,vcs,svn,github,rebase,version,merge)
+Chain_Broken   (remove)
+Question   (help,information,unknown,support)
+Info   (help,information,more,details)
+exclamation   (warning,error,problem,notification,notify,alert)
+superscript   (exponential)
+subscript   
+eraser   (remove,delete)
+Puzzle_Piece   (addon,add-on,section)
+microphone   (record,voice,sound)
+Microphone_Slash   (record,voice,sound,mute)
+shield   (award,achievement,security,winner)
+calendar-o   (date,time,when,event)
+fire-extinguisher   
+rocket   (app)
+MaxCDN   
+Chevron_Circle_Left   (previous,back,arrow)
+Chevron_Circle_Right   (next,forward,arrow)
+Chevron_Circle_Up   (arrow)
+Chevron_Circle_Down   (more,dropdown,menu,arrow)
+HTML_5_Logo   
+CSS_3_Logo   (code)
+Anchor   (link)
+Unlock_Alt   (protect,admin,password,lock)
+Bullseye   (target)
+Ellipsis_Horizontal   (dots)
+Ellipsis_Vertical   (dots)
+RSS_Square   (feed,blog)
+Play_Circle   (start,playing)
+Ticket   (movie,pass,support)
+Minus_Square   (hide,minify,delete,remove,trash,hide,collapse)
+Minus_Square_Outlined   (hide,minify,delete,remove,trash,hide,collapse)
+Level_Up   (arrow)
+Level_Down   (arrow)
+Check_Square   (checkmark,done,todo,agree,accept,confirm,ok)
+Pencil_Square   (write,edit,update)
+External_Link_Square   (open,new)
+Share_Square   (social,send)
+Compass   (safari,directory,menu,location)
+Caret_Square_Outlined_Down   (more,dropdown,menu)
+Caret_Square_Outlined_Up   
+Caret_Square_Outlined_Right   (next,forward)
+Euro_(EUR)   
+GBP   
+US_Dollar   
+Indian_Rupee_(INR)   
+Japanese_Yen_(JPY)   
+Russian_Ruble_(RUB)   
+Korean_Won_(KRW)   
+Bitcoin_(BTC)   
+File   (new,page,pdf,document)
+File_Text   (new,page,pdf,document)
+Sort_Alpha_Ascending   
+Sort_Alpha_Descending   
+Sort_Amount_Ascending   
+Sort_Amount_Descending   
+Sort_Numeric_Ascending   (numbers)
+Sort_Numeric_Descending   (numbers)
+thumbs-up   (like,favorite,approve,agree,hand)
+thumbs-down   (dislike,disapprove,disagree,hand)
+YouTube_Square   (video,film)
+YouTube   (video,film)
+Xing   
+Xing_Square   
+YouTube_Play   (start,playing)
+Dropbox   
+Stack_Overflow   
+Instagram   
+Flickr   
+App.net   
+Bitbucket   (git)
+Bitbucket_Square   (git)
+Tumblr   
+Tumblr_Square   
+Long_Arrow_Down   
+Long_Arrow_Up   
+Long_Arrow_Left   (previous,back)
+Long_Arrow_Right   
+Apple   (osx,food)
+Windows   (microsoft)
+Android   (robot)
+Linux   (tux)
+Dribbble   
+Skype   
+Foursquare   
+Trello   
+Female   (woman,user,person,profile)
+Male   (man,user,person,profile)
+Gratipay_(Gittip)   (heart,like,favorite,love)
+Sun_Outlined   (weather,contrast,lighter,brighten,day)
+Moon_Outlined   (night,darker,contrast)
+Archive   (box,storage)
+Bug   (report,insect)
+VK   
+Weibo   
+Renren   
+Pagelines   (leaf,leaves,tree,plant,eco,nature)
+Stack_Exchange   
+Arrow_Circle_Outlined_Right   (next,forward)
+Arrow_Circle_Outlined_Left   (previous,back)
+Caret_Square_Outlined_Left   (previous,back)
+Dot_Circle_Outlined   (target,bullseye,notification)
+Wheelchair   (handicap,person)
+Vimeo_Square   
+Turkish_Lira_(TRY)   
+Plus_Square_Outlined   (add,new,create,expand)
+Space_Shuttle   
+Slack_Logo   (hashtag,anchor,hash)
+Envelope_Square   (email,e-mail,letter,support,mail,message,notification)
+WordPress_Logo   
+OpenID   
+University   
+Graduation_Cap   (learning,school,student)
+Yahoo_Logo   
+Google_Logo   
+reddit_Logo   
+reddit_Square   
+StumbleUpon_Circle   
+StumbleUpon_Logo   
+Delicious_Logo   
+Digg_Logo   
+Pied_Piper_PP_Logo_(Old)   
+Pied_Piper_Alternate_Logo   
+Drupal_Logo   
+Joomla_Logo   
+Language   (translate)
+Fax   
+Building   (work,business,apartment,office,company)
+Child   
+Paw   (pet)
+spoon   
+Cube   
+Cubes   
+Behance   
+Behance_Square   
+Steam   
+Steam_Square   
+Recycle   
+Car   (vehicle)
+Taxi   (vehicle)
+Tree   
+Spotify   
+deviantART   
+SoundCloud   
+Database   
+PDF_File_Outlined   
+Word_File_Outlined   
+Excel_File_Outlined   
+Powerpoint_File_Outlined   
+Image_File_Outlined   
+Archive_File_Outlined   
+Audio_File_Outlined   
+Video_File_Outlined   
+Code_File_Outlined   
+Vine   
+Codepen   
+jsFiddle   
+Life_Ring   
+Circle_Outlined_Notched   
+Rebel_Alliance   
+Galactic_Empire   
+Git_Square   
+Git   
+Hacker_News   
+Tencent_Weibo   
+QQ   
+Weixin_(WeChat)   
+Paper_Plane   
+Paper_Plane_Outlined   
+History   
+Circle_Outlined_Thin   
+header   (heading)
+paragraph   
+Sliders   (settings)
+Share_Alt   
+Share_Alt_Square   
+Bomb   
+Futbol_Outlined   
+TTY   
+Binoculars   
+Plug   (power,connect)
+Slideshare   
+Twitch   
+Yelp   
+Newspaper_Outlined   (press)
+WiFi   
+Calculator   
+Paypal   
+Google_Wallet   
+Visa_Credit_Card   
+MasterCard_Credit_Card   
+Discover_Credit_Card   
+American_Express_Credit_Card   (amex)
+Paypal_Credit_Card   
+Stripe_Credit_Card   
+Bell_Slash   
+Bell_Slash_Outlined   
+Trash   (garbage,delete,remove,hide)
+Copyright   
+At   (email,e-mail)
+Eyedropper   
+Paint_Brush   
+Birthday_Cake   
+Area_Chart   (graph,analytics,statistics)
+Pie_Chart   (graph,analytics,statistics)
+Line_Chart   (graph,analytics,statistics)
+last.fm   
+last.fm_Square   
+Toggle_Off   
+Toggle_On   
+Bicycle   (vehicle,bike)
+Bus   (vehicle)
+ioxhost   
+AngelList   
+Closed_Captions   
+Shekel_(ILS)   
+meanpath   
+BuySellAds   
+Connect_Develop   
+DashCube   
+Forumbee   
+Leanpub   
+Sellsy   
+Shirts_in_Bulk   
+SimplyBuilt   
+skyatlas   
+Add_to_Shopping_Cart   (add,shopping)
+Shopping_Cart_Arrow_Down   (shopping)
+Diamond   (gem,gemstone)
+Ship   (boat,sea)
+User_Secret   (whisper,spy,incognito,privacy)
+Motorcycle   (vehicle,bike)
+Street_View   (map)
+Heartbeat   (ekg)
+Venus   (female)
+Mars   (male)
+Mercury   (transgender)
+Transgender   
+Transgender_Alt   
+Venus_Double   
+Mars_Double   
+Venus_Mars   
+Mars_Stroke   
+Mars_Stroke_Vertical   
+Mars_Stroke_Horizontal   
+Neuter   
+Genderless   
+Facebook_Official   
+Pinterest_P   
+What's_App   
+Server   
+Add_User   (sign up,signup)
+Remove_User   
+Bed   (travel)
+Viacoin   
+Train   
+Subway   
+Medium   
+Y_Combinator   
+Optin_Monster   
+OpenCart   
+ExpeditedSSL   
+Battery_Full   (power)
+Battery_3/4_Full   (power)
+Battery_1/2_Full   (power)
+Battery_1/4_Full   (power)
+Battery_Empty   (power)
+Mouse_Pointer   
+I_Beam_Cursor   
+Object_Group   
+Object_Ungroup   
+Sticky_Note   
+Sticky_Note_Outlined   
+JCB_Credit_Card   
+Diner's_Club_Credit_Card   
+Clone   (copy)
+Balance_Scale   
+Hourglass_Outlined   
+Hourglass_Start   
+Hourglass_Half   
+Hourglass_End   
+Hourglass   
+Rock_(Hand)   
+Paper_(Hand)   (stop)
+Scissors_(Hand)   
+Lizard_(Hand)   
+Spock_(Hand)   
+Hand_Pointer   
+Hand_Peace   
+Trademark   
+Registered_Trademark   
+Creative_Commons   
+GG_Currency   
+GG_Currency_Circle   
+TripAdvisor   
+Odnoklassniki   
+Odnoklassniki_Square   
+Get_Pocket   
+Wikipedia_W   
+Safari   (browser)
+Chrome   (browser)
+Firefox   (browser)
+Opera   
+Internet-explorer   (browser,ie)
+Television   (display,computer,monitor)
+Contao   
+500px   
+Amazon   
+Calendar_Plus_Outlined   
+Calendar_Minus_Outlined   
+Calendar_Times_Outlined   
+Calendar_Check_Outlined   (ok)
+Industry   (factory)
+Map_Pin   
+Map_Signs   
+Map_Outlined   
+Map   
+Commenting   (speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation)
+Commenting_Outlined   (speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation)
+Houzz   
+Vimeo   
+Font_Awesome_Black_Tie   
+Fonticons   
+reddit_Alien   
+Edge_Browser   (browser,ie)
+Credit_Card   (money,buy,debit,checkout,purchase,payment,credit card)
+Codie_Pie   
+MODX   
+Fort_Awesome   
+USB   
+Product_Hunt   
+Mixcloud   
+Scribd   
+Pause_Circle   
+Pause_Circle_Outlined   
+Stop_Circle   
+Stop_Circle_Outlined   
+Shopping_Bag   
+Shopping_Basket   
+Hashtag   
+Bluetooth   
+Bluetooth   
+Percent   
+GitLab   
+WPBeginner   
+WPForms   
+Envira_Gallery   (leaf)
+Universal_Access   
+Wheelchair_Alt   (handicap,person)
+Question_Circle_Outlined   
+Blind   
+Audio_Description   
+Volume_Control_Phone   (telephone)
+Braille   
+Assistive_Listening_Systems   
+American_Sign_Language_Interpreting   
+Deaf   
+Glide   
+Glide_G   
+Sign_Language   
+Low_Vision   
+Viadeo   
+Viadeo_Square   
+Snapchat   
+Snapchat_Ghost   
+Snapchat_Square   
+Pied_Piper_Logo   
+First_Order   
+Yoast   
+ThemeIsle   
+Google_Plus_Official   
+Font_Awesome   
+Handshake_Outlined   
+Envelope_Open   (email,e-mail,letter,support,mail,message,notification)
+Envelope_Open_Outlined   (email,e-mail,letter,support,mail,message,notification)
+Linode   
+Address_Book   
+Address_Book_Outlined   
+Address_Card   
+Address_Card_Outlined   
+User_Circle   
+User_Circle_Outlined   
+User_Outlined   
+Identification_Badge   
+Identification_Card   
+Identification_Card_Outlined   
+Quora   
+Free_Code_Camp   
+Telegram   
+Thermometer_Full   
+Thermometer_3/4_Full   
+Thermometer_1/2_Full   
+Thermometer_1/4_Full   
+Thermometer_Empty   
+Shower   
+Bath   
+Podcast   
+Window_Maximize   
+Window_Minimize   
+Window_Restore   
+Window_Close   
+Window_Close_Outline   
+Bandcamp   
+Grav   
+Etsy   
+IMDB   
+Ravelry   
+Eercast   
+Microchip   
+Snowflake_Outlined   
+Superpowers   
+WPExplorer   
+Meetup   
