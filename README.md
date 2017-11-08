@@ -3,6 +3,7 @@ This reduces the time consuming aspect of searching for an icon as a unicode cha
 
 ## Usage   
 `./rofi_fa_ico_finder.sh`, then type your keywords, then "enter" then the symbol should be in your clipboard.   
+![screenshot](./screenshot.png?raw=true)
 
 ## Requirements   
 font-awesome installed on your machine (I am not sure about that...)   
